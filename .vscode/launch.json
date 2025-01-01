@@ -1,0 +1,96 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}",
+            "vmArgs": "--module-path C:\\ruan_jian\\javaFX\\javafx-sdk-21.0.1\\lib --add-modules javafx.controls,javafx.fxml"
+
+        },
+        {
+            "type": "java",
+            "name": "Fruits2AllTester",
+            "request": "launch",
+            "mainClass": "Fruits2AllTester",
+            "projectName": "project1406new_4debd8f5",
+            "vmArgs": "--module-path C:\\ruan_jian\\javaFX\\javafx-sdk-21.0.1\\lib --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "Fruits2IDFTester",
+            "request": "launch",
+            "mainClass": "Fruits2IDFTester",
+            "projectName": "project1406new_4debd8f5",
+            "vmArgs": "--module-path C:\\ruan_jian\\javaFX\\javafx-sdk-21.0.1\\lib --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "Fruits2IncomingLinksTester",
+            "request": "launch",
+            "mainClass": "Fruits2IncomingLinksTester",
+            "projectName": "project1406new_4debd8f5",
+            "vmArgs": "--module-path C:\\ruan_jian\\javaFX\\javafx-sdk-21.0.1\\lib --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "Fruits2OutgoingLinksTester",
+            "request": "launch",
+            "mainClass": "Fruits2OutgoingLinksTester",
+            "projectName": "project1406new_4debd8f5",
+            "vmArgs": "--module-path C:\\ruan_jian\\javaFX\\javafx-sdk-21.0.1\\lib --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "Fruits2PageRanksTester",
+            "request": "launch",
+            "mainClass": "Fruits2PageRanksTester",
+            "projectName": "project1406new_4debd8f5",
+            "vmArgs": "--module-path C:\\ruan_jian\\javaFX\\javafx-sdk-21.0.1\\lib --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "Fruits2SearchTester",
+            "request": "launch",
+            "mainClass": "Fruits2SearchTester",
+            "projectName": "project1406new_4debd8f5",
+            "vmArgs": "--module-path C:\\ruan_jian\\javaFX\\javafx-sdk-21.0.1\\lib --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "Fruits2TFIDFTester",
+            "request": "launch",
+            "mainClass": "Fruits2TFIDFTester",
+            "projectName": "project1406new_4debd8f5",
+            "vmArgs": "--module-path C:\\ruan_jian\\javaFX\\javafx-sdk-21.0.1\\lib --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "Fruits2TFTester",
+            "request": "launch",
+            "mainClass": "Fruits2TFTester",
+            "projectName": "project1406new_4debd8f5",
+            "vmArgs": "--module-path C:\\ruan_jian\\javaFX\\javafx-sdk-21.0.1\\lib --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "WebCrawlerApp",
+            "request": "launch",
+            "mainClass": "WebCrawlerApp",
+            "projectName": "project1406new_4debd8f5",
+            "vmArgs": "--module-path C:\\ruan_jian\\javaFX\\javafx-sdk-21.0.1\\lib --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "WebRequester",
+            "request": "launch",
+            "mainClass": "WebRequester",
+            "projectName": "project1406new_4debd8f5",
+            "vmArgs": "--module-path C:\\ruan_jian\\javaFX\\javafx-sdk-21.0.1\\lib --add-modules javafx.controls,javafx.fxml"
+        }
+    ]
+}
